@@ -1,6 +1,6 @@
 This website was created by [Start Bootstrap Template](https://startbootstrap.com/). 
 
-This repository is a clone of [this]([https://startbootstrap.com/](https://github.com/StartBootstrap/startbootstrap-resume.git) repository. 
+This repository is a clone of [this](https://github.com/StartBootstrap/startbootstrap-resume.git) repository. 
 
 ## Copyright and License
 
